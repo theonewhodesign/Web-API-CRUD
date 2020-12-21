@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Employee.Api\Employee.Models\bin\Debug\netcoreapp3.1\Employee.Models.deps.json
+C:\Users\user\source\repos\Employee.Api\Employee.Models\bin\Debug\netcoreapp3.1\Employee.Models.dll
+C:\Users\user\source\repos\Employee.Api\Employee.Models\bin\Debug\netcoreapp3.1\Employee.Models.pdb
+C:\Users\user\source\repos\Employee.Api\Employee.Models\obj\Debug\netcoreapp3.1\Employee.Models.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Employee.Api\Employee.Models\obj\Debug\netcoreapp3.1\Employee.Models.AssemblyInfo.cs
+C:\Users\user\source\repos\Employee.Api\Employee.Models\obj\Debug\netcoreapp3.1\Employee.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Employee.Api\Employee.Models\obj\Debug\netcoreapp3.1\Employee.Models.dll
+C:\Users\user\source\repos\Employee.Api\Employee.Models\obj\Debug\netcoreapp3.1\Employee.Models.pdb
